@@ -1,3 +1,9 @@
+---
+layout: default
+title:  Appendix A. Sample Screen Log
+nav_order: 590
+---
+
 ## Appendix A. Sample Screen Log
 
 **Study:**
