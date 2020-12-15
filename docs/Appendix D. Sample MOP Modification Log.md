@@ -1,3 +1,9 @@
+---
+layout: default
+title:  Appendix D. Sample MOP Modification Log
+nav_order: 620
+---
+
 ## Appendix D. Sample MOP Modification Log
 
 MOP MODIFICATION LOG
