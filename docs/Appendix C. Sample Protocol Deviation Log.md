@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  Appendix C. Sample Protocol Deviation Log
-nav_order: 610
+nav_order: 620
 ---
 
 ## Appendix C. Sample Protocol Deviation Log
