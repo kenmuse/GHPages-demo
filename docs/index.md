@@ -1,6 +1,6 @@
 **Table of Contents**
 
-Page
+Pages
 
 [Web Links 4](#web-links)
 
