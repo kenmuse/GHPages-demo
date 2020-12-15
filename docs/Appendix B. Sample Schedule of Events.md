@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  Appendix B. Sample Schedule of Events
-nav_order: 600
+nav_order: 610
 ---
 
 ## Appendix B. Sample Schedule of Events
